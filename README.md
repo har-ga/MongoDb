@@ -41,3 +41,5 @@ https://www.mongodb.com/try/download/shell
 <img width="605" alt="Screenshot 2023-03-30 035652" src="https://user-images.githubusercontent.com/129230735/228681732-1aa20171-db08-4dee-ac5e-1c0424a1caaf.png">
 
 ### To create a database click on create database or '+' sign on the left.
+### To delete a database or collection, click on the trash icon
+<img width="195" alt="delete" src="https://user-images.githubusercontent.com/129230735/228683007-58f97d68-effd-4344-bc39-f72af29d4e05.png">
