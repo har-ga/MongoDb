@@ -1,5 +1,8 @@
 # MongoDb
 
+## Link to download Community version 
+### https://www.mongodb.com/try/download/community-edition
+
 ## Follow the steps given below
 ### Step1 - Click on the next button
 <img width="355" alt="1" src="https://user-images.githubusercontent.com/129230735/228676150-6c6bf30a-2efa-47b9-898a-517419a32167.png">
@@ -16,3 +19,5 @@
 ### Step5- Click on Install MongoDB Compass and enter next
 <img width="358" alt="5" src="https://user-images.githubusercontent.com/129230735/228677464-765a11a1-0d2a-4be9-8bf2-ac59cace2f9c.png">
 
+### Step6- Click on Install
+<img width="354" alt="6" src="https://user-images.githubusercontent.com/129230735/228677743-ee6458bd-7dc7-4f03-84f3-fe8932b98e72.png">
