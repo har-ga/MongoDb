@@ -31,3 +31,8 @@ https://www.mongodb.com/try/download/shell
 <img width="358" alt="2" src="https://user-images.githubusercontent.com/129230735/228679523-16f2e3ba-7dc1-4d68-93e9-91117d315f6a.png">
 
 <img width="358" alt="3" src="https://user-images.githubusercontent.com/129230735/228679697-37cf2793-147f-4280-990e-4df569209927.png">
+
+
+## Now open mongoDB compass
+### Click on connect 
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/129230735/228681103-d115bae6-d161-4116-b543-acdcebe107af.png">
