@@ -21,3 +21,6 @@
 
 ### Step6- Click on Install
 <img width="354" alt="6" src="https://user-images.githubusercontent.com/129230735/228677743-ee6458bd-7dc7-4f03-84f3-fe8932b98e72.png">
+
+#### Now download mongoDB shell from the link given below
+https://www.mongodb.com/try/download/shell
