@@ -36,3 +36,7 @@ https://www.mongodb.com/try/download/shell
 ## Now open mongoDB compass
 ### Click on connect 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/129230735/228681103-d115bae6-d161-4116-b543-acdcebe107af.png">
+
+### Also go to service and check if mongoDB server running.
+<img width="605" alt="Screenshot 2023-03-30 035652" src="https://user-images.githubusercontent.com/129230735/228681732-1aa20171-db08-4dee-ac5e-1c0424a1caaf.png">
+
