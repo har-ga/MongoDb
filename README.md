@@ -1,4 +1,4 @@
-# Installing MongoDb on your local machine
+# Installing MongoDb on Local machine
 
 ## Link to download Community version 
 ### https://www.mongodb.com/try/download/community-edition
