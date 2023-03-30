@@ -48,7 +48,8 @@ https://www.mongodb.com/try/download/shell
 Click on MONGOSH on the bottom of the compass.
 
 ## Some shell Commands
-### show dbs or show databases - To show all the database, it will also return the database in which we are working.
-### use DATABASE_NAME - to switch between databases even if doesn't exist.
+### 1-> show dbs or show databases - To show all the database, it will also return the database in which we are working.
+
+### 2-> use DATABASE_NAME - to switch between databases even if doesn't exist.
 
 ### In the terminal type mongosh to start interactive mongo shell.
