@@ -63,3 +63,8 @@ Click on MONGOSH on the bottom of the compass.
 ## To add document inside collection 
 ### db.COLLECTION_NAME.insertOne({})
 ### db.COLLECTION_NAME.insertMany([{}])
+
+## 
+## To Find in the database
+### db.COLLECTION_NAME.find() - Gives the list of all the record
+### db.COLLECTION_NAME.find({key1:value1, key2:value2}) - gives the list specific record
