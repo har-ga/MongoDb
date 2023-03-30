@@ -53,3 +53,9 @@ Click on MONGOSH on the bottom of the compass.
 ### 2-> use DATABASE_NAME - to switch between databases even if doesn't exist.
 
 ### In the terminal type mongosh to start interactive mongo shell.
+
+### 3- cls - to clear screen.
+
+### show collections - to show all the collection inside that database.
+### help - to get list of commands.
+### exit - to exit from the shell.
