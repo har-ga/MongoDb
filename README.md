@@ -44,5 +44,11 @@ https://www.mongodb.com/try/download/shell
 ### To delete a database or collection, click on the trash icon
 <img width="195" alt="delete" src="https://user-images.githubusercontent.com/129230735/228683007-58f97d68-effd-4344-bc39-f72af29d4e05.png">
 
-## use mongo shell in the compass.
+## use mongo shell in compass.
 Click on MONGOSH on the bottom of the compass.
+
+## Some shell Commands
+### show dbs or show databases - To show all the database, it will also return the database in which we are working.
+### use DATABASE_NAME - to switch between databases even if doesn't exist.
+
+### In the terminal type mongosh to start interactive mongo shell.
