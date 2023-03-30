@@ -68,7 +68,7 @@ Click on MONGOSH on the bottom of the compass.
 ## To Find in the database
 ### db.COLLECTION_NAME.find() - Gives the list of all the record
 ### db.COLLECTION_NAME.find({key1:value1, key2:value2}) - gives the list specific record
-### db.COLLECTION_NAME.find({}, {key1:1, key2:1}) - return all the record with specific data. 
+### db.COLLECTION_NAME.find({}, {key1:1, key2:1}) - return all the record with specific field. 
 ### db.COLLECTION_NAME.find({key1:value1, key2:value2}, {key:1}) - To have specific part of selected record. 1 to show and 0 to hide.
 
 
