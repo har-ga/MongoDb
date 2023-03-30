@@ -62,3 +62,4 @@ Click on MONGOSH on the bottom of the compass.
 
 ## To add document inside collection 
 ### db.COLLECTION_NAME.insertOne({})
+### db.COLLECTION_NAME.insertMany([{}])
