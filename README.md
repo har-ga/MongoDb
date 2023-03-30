@@ -43,3 +43,6 @@ https://www.mongodb.com/try/download/shell
 ### To create a database click on create database or '+' sign on the left.
 ### To delete a database or collection, click on the trash icon
 <img width="195" alt="delete" src="https://user-images.githubusercontent.com/129230735/228683007-58f97d68-effd-4344-bc39-f72af29d4e05.png">
+
+## use mongo shell in the compass.
+Click on MONGOSH on the bottom of the compass.
