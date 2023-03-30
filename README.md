@@ -59,3 +59,6 @@ Click on MONGOSH on the bottom of the compass.
 ### show collections - to show all the collection inside that database.
 ### help - to get list of commands.
 ### exit - to exit from the shell.
+
+## To add document inside collection 
+### db.COLLECTION_NAME.insertOne({})
